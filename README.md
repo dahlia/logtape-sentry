@@ -1,6 +1,14 @@
 @logtape/sentry: LogTape Sentry Sink
 ====================================
 
+> [!NOTE]
+> Since *@logtape/sentry* package is now maintained along with
+> the *@logtape/logtape* package, this repository is archived and no longer
+> actively maintained.
+>
+> Please refer to the [LogTape](https://github.com/dahlia/logtape) repository
+> for the latest updates and developments.
+
 [![JSR][JSR badge]][JSR]
 [![npm][npm badge]][npm]
 [![GitHub Actions][GitHub Actions badge]][GitHub Actions]
